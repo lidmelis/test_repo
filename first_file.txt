@@ -1,1 +1,3 @@
-jfdvkknvdfbfddfvfd
+print("Hello, world!")
+
+# edited by withsoull
